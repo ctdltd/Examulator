@@ -51,6 +51,9 @@ Newest first.
 
 ### 26306.1521 - 2026-11-02
 
+**Programs:** Examulator (PC) · Examulator (Android) · Examulator3 (PC) · Examulator3 (Android) · Examulator Diagnostics
+
+- Examulator3, the next generation of Examulator, is now available for testing: the PC program for Windows, Linux and macOS, and the Android app as an APK for side-loading. It installs alongside Examulator and keeps its own exams and results.
 - Program and question-bank updates now download from the public GitHub releases first, with Google Drive as a fallback. Every download is still checked against a published checksum.
 - New version numbers: a release is numbered by the date and time it was published.
 - The question review after an exam labels every answer A to D, as in the exam, and the answers you didn't pick no longer blend in with the explanations.
