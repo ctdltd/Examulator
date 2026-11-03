@@ -49,6 +49,15 @@ Newest first.
 
 <!-- changelog -->
 
+### 26306.1521 - 2026-11-02
+
+- Program and question-bank updates now download from the public GitHub releases first, with Google Drive as a fallback. Every download is still checked against a published checksum.
+- New version numbers: a release is numbered by the date and time it was published.
+- The question review after an exam labels every answer A to D, as in the exam, and the answers you didn't pick no longer blend in with the explanations.
+- Question banks updated more than once a day are offered as updates, and a question bank copied by hand into the program's data folder is installed at the next start if it is newer.
+- A question bank meant for the other generation of Examulator is refused with a clear message instead of loading with blank explanations.
+- Help and the Select Exam screen now explain installing exams from inside the app.
+
 ### 26300.01 - 2026-10-27
 
 - Question pool updates published under the newer, longer revision numbers appear in the update list again (the previous release skipped them).
