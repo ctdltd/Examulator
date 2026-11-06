@@ -49,6 +49,14 @@ Newest first.
 
 <!-- changelog -->
 
+### 26310.1635 - 2026-11-06
+
+**Programs:** Examulator (PC) · Examulator (Android) · Examulator3 (PC) · Examulator3 (Android) · Examulator Diagnostics
+
+- Android: the app's code is now optimized and compacted by Google's R8 tool, making the app smaller and meeting Google Play's upcoming code-optimization requirement.
+- Examulator3 on PC: the CPE Report now shows the recipient name you enter, instead of the Windows user name.
+- iPhone and iPad (next App Store update): Apple's free on-device translation (beta) is available on iOS 26 and later, under Settings, Beta Feature: Translation.
+
 ### 26307.2154 - 2026-11-05
 
 **Programs:** Examulator (PC) · Examulator (Android) · Examulator3 (PC) · Examulator3 (Android) · Examulator Diagnostics
