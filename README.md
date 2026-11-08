@@ -5,8 +5,10 @@ Certification Tool and Die, Ltd. Examulator delivers practice exams in linear an
 adaptive (CAT) modes, scores them and tracks your readiness by domain.
 
 This repository holds the program downloads. Question pools are published separately: the app
-downloads them for you (Select Exam), or see
-[ctdltd/Examulator-Pools-v2](https://github.com/ctdltd/Examulator-Pools-v2).
+downloads them for you automatically. Optionally, you can download and copy them into the pool 
+directory yourself if you so wish. The pool repositories are
+[ctdltd/Examulator-Pools-v2](https://github.com/ctdltd/Examulator-Pools-v2) and
+[ctdltd/Examulator-Pools-v3](https://github.com/ctdltd/Examulator-Pools-v3) 
 
 ## Downloads
 
