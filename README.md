@@ -55,41 +55,34 @@ Newest first.
 
 **Programs:** Examulator (PC) · Examulator (Android) · Examulator3 (PC) · Examulator3 (Android) · Examulator Diagnostics
 
-- Android: the app's code is now optimized and compacted by Google's R8 tool, making the app smaller and meeting Google Play's upcoming code-optimization requirement.
-- Examulator3 on PC: the CPE Report now shows the recipient name you enter, instead of the Windows user name.
-- iPhone and iPad (next App Store update): Apple's free on-device translation (beta) is available on iOS 26 and later, under Settings, Beta Feature: Translation.
+- Android and iOS: on the first launch after an install or update, the app asks the phone for your age range, as new age-assurance laws require (California from January 2027). Google Play or Apple may show their own prompt; Examulator doesn't store or use the answer.
 
 ### 26322.1545 - 2026-11-18
 
 **Programs:** Examulator (PC) · Examulator (Android) · Examulator3 (PC) · Examulator3 (Android) · Examulator Diagnostics
 
-- Android: the app's code is now optimized and compacted by Google's R8 tool, making the app smaller and meeting Google Play's upcoming code-optimization requirement.
-- Examulator3 on PC: the CPE Report now shows the recipient name you enter, instead of the Windows user name.
-- iPhone and iPad (next App Store update): Apple's free on-device translation (beta) is available on iOS 26 and later, under Settings, Beta Feature: Translation.
+- All platforms: the CAT Ability Trajectory report (Exam Reports, Advanced Analysis) now works. Pick one CAT session to see how your ability estimate and its 95% confidence interval moved question by question against the 700 passing standard, and at which question the result was decided. PDF export and Copy Summary included.
 
 ### 26311.1058 - 2026-11-07
 
 **Programs:** Examulator (PC) · Examulator (Android) · Examulator3 (PC) · Examulator3 (Android) · Examulator Diagnostics
 
-- Android: the app's code is now optimized and compacted by Google's R8 tool, making the app smaller and meeting Google Play's upcoming code-optimization requirement.
-- Examulator3 on PC: the CPE Report now shows the recipient name you enter, instead of the Windows user name.
-- iPhone and iPad (next App Store update): Apple's free on-device translation (beta) is available on iOS 26 and later, under Settings, Beta Feature: Translation.
+- Android, iPhone and iPad: the Examulator logo shows again in the top bar and on the start screen, and report charts draw again.
 
 ### 26311.0836 - 2026-11-07
 
 **Programs:** Examulator (PC) · Examulator (Android) · Examulator3 (PC) · Examulator3 (Android) · Examulator Diagnostics
 
-- Android: the app's code is now optimized and compacted by Google's R8 tool, making the app smaller and meeting Google Play's upcoming code-optimization requirement.
-- Examulator3 on PC: the CPE Report now shows the recipient name you enter, instead of the Windows user name.
-- iPhone and iPad (next App Store update): Apple's free on-device translation (beta) is available on iOS 26 and later, under Settings, Beta Feature: Translation.
+- iPhone and iPad: the Examulator logo shows again in the top bar and on the start screen, and report charts work.
 
 ### 26310.1635 - 2026-11-06
 
 **Programs:** Examulator (PC) · Examulator (Android) · Examulator3 (PC) · Examulator3 (Android) · Examulator Diagnostics
 
-- Android: the app's code is now optimized and compacted by Google's R8 tool, making the app smaller and meeting Google Play's upcoming code-optimization requirement.
-- Examulator3 on PC: the CPE Report now shows the recipient name you enter, instead of the Windows user name.
-- iPhone and iPad (next App Store update): Apple's free on-device translation (beta) is available on iOS 26 and later, under Settings, Beta Feature: Translation.
+- iPhone and iPad: Examulator opens again. Version 26306.1521 closed immediately on launch on iOS 26 and 27.
+- CPE Report: each report now names the Examulator version and the device it was made on, plus the time it was generated, so reports made on a PC, an Android phone and an iPhone on the same day are easy to tell apart in an ISC2 audit.
+- ISC2 Linear and CAT exams: a domain is Above Proficiency when its whole 95% confidence interval sits above the 700 pass point, Below when it sits entirely below, and Near when it straddles 700. A domain with few questions is often Near.
+- PC programs are now downloaded from GitHub.
 
 ### 26307.2154 - 2026-11-05
 
