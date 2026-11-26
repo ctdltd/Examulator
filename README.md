@@ -51,6 +51,13 @@ Newest first.
 
 <!-- changelog -->
 
+### 26329.1924 - 2026-11-25
+
+**Programs:** Examulator (PC) · Examulator (Android) · Examulator3 (PC) · Examulator3 (Android) · Examulator Diagnostics
+
+- "Practice in Examulator" links from ExamAdvantage now work for the ISC2 AI Security Certification (AISC). Before, tapping one did nothing on the phone.
+- If a practice link can't be used, Examulator now opens the practice page and says why, instead of doing nothing.
+
 ### 26325.1950 - 2026-11-21
 
 **Programs:** Examulator (PC) · Examulator (Android) · Examulator3 (PC) · Examulator3 (Android) · Examulator Diagnostics
