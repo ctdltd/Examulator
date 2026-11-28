@@ -51,6 +51,14 @@ Newest first.
 
 <!-- changelog -->
 
+### 26331.1507 - 2026-11-27
+
+**Programs:** Examulator (PC) · Examulator (Android) · Examulator3 (PC) · Examulator3 (Android) · Examulator Diagnostics
+
+- ISC2 results now show two bars per domain: your weighted score and your ability estimate with its range, so you can see why a domain is rated Above, Near or Below Proficiency.
+- New "Classic blue" theme, and a "Custom" theme: pick your own colours, preview them, and share your theme as a short code.
+- A "Build a study plan in ExamAdvantage" button on the results and history screens sends your results to ExamAdvantage, which turns them into a study plan.
+
 ### 26329.1924 - 2026-11-25
 
 **Programs:** Examulator (PC) · Examulator (Android) · Examulator3 (PC) · Examulator3 (Android) · Examulator Diagnostics
